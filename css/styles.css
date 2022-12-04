@@ -178,3 +178,7 @@ margin-bottom: 23px;
     align-items: center;
     gap: 30px;
 }
+.post-img{
+    display: block;
+
+}
